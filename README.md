@@ -1,50 +1,51 @@
 # 🔗 Acesso Rápido aos Exercícios de JavaScript
 
-Bem-vindo(a)! 😎  
-Abaixo você encontrará uma lista de **200 exercícios de codificação em JavaScript** para praticar lógica de programação. 
+Bem-vindo(a)!  
+Abaixo você encontrará uma lista de **200 exercícios de codificação em JavaScript** para praticar lógica de programação.
 
 > 💡 **Instruções:**
-- Crie uma pasta com o nome **200exerciciosJavascript**
-- Transforme a pasta em um repositório GIT com `git init`
-- No VS Code, crie um arquivo `.js` para cada exercício com o nome: `exercicio01.js`, `exercicio02.js`, etc.
-- Execute o código no **console do navegador**.
-- Se estiver correto, faça o commit localmente com `git commit -m 'mensagem do commit'`.
+> - Crie uma pasta com o nome **200exerciciosJavascript**  
+> - Transforme a pasta em um repositório GIT com `git init`  
+> - No VS Code, crie um arquivo `.js` para cada exercício com o nome: `exercicio-01.js`, `exercicio-02.js`, etc.  
+> - Execute o código no **console do navegador**.  
+> - Se estiver correto, faça o commit localmente com `git commit -m 'mensagem do commit'`.
 
 ---
 
 ## 📘 Exercícios de Revisão - JavaScript
 
-1. [Exercício 01](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-01.js) – Declare duas variáveis chamadas "idade" e "peso", atribua valores a elas.  
-2. [Exercício 02](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-02.js) – Declare uma constante chamada "PI", atribua o valor de Pi a ela.  
-3. [Exercício 03](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-03.js) – Declare uma variável chamada númeroMáximo, atribua a ela o valor máximo.  
-4. [Exercício 04](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-04.js) – Declare duas variáveis chamadas nome e sobrenome, atribua o seu nome e sobrenome a elas.  
-5. [Exercício 05](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-05.js) – Declare duas variáveis e atribua valores numéricos a elas. Use o operador adequado.  
-6. [Exercício 06](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-06.js) – Declare duas variáveis e atribua valores booleanos a elas. Use os operadores lógicos AND, OR e NOT para realizar operações lógicas entre as variáveis. Imprima os resultados.  
-7. [Exercício 07](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-07.js) – Declare três variáveis e atribua valores numéricos a elas. Use operadores de comparação para comparar os valores entre as variáveis. Imprima os resultados.  
-8. [Exercício 08](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-08.js) – Declare uma variável e atribua um valor numérico a ela. Use o operador de incremento para aumentar o valor da variável. Imprima o resultado.  
-9. [Exercício 09](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-09.js) – Escreva um programa que recebe um número e verifica se ele é positivo, negativo ou zero.  
-10. [Exercício 10](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-10.js) – Escreva um programa que recebe duas notas de um aluno, calcula a média e imprime se o aluno foi aprovado ou reprovado (considerando que a média para aprovação é 7).  
-11. [Exercício 11](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-11.js) – Verifique se uma pessoa pode votar com base na idade.  
-12. [Exercício 12](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-12.js) – Verifique a situação de um estudante de acordo com sua média final.  
-13. [Exercício 13](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-13.js) – Calcule o IMC e imprima a classificação.  
-14. [Exercício 14](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-14.js) – Verifique se um ano é bissexto.  
-15. [Exercício 15](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-15.js) – Verifique se uma palavra é um palíndromo.  
-16. [Exercício 16](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-16.js) – Determine o maior entre três números.  
-17. [Exercício 17](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-17.js) – Verifique se um número é par ou ímpar.  
-18. [Exercício 18](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-18.js) – Verifique se uma pessoa pode dirigir com base na idade.  
-19. [Exercício 19](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-19.js) – Verifique se um número está dentro de um intervalo.  
-20. [Exercício 20](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-20.js) – Imprima uma classificação baseada na nota de um aluno.  
-21. [Exercício 21](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-21.js) – Determine a estação do ano com base no mês.  
-22. [Exercício 22](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-22.js) – Determine o número de dias em um mês.  
-23. [Exercício 23](https://github.com/felipem5552/javascript-iniciante/blob/main/curso-bolsa-futuro-digital/logica-de-programacao/exercicios/revisao-200-exercicios-javascript/exercicio-23.js) – Verifique as cores de um semáforo.  
+1. [Exercício 01](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-01.js) – Declare duas variáveis chamadas "idade" e "peso", atribua valores a elas.  
+2. [Exercício 02](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-02.js) – Declare uma constante chamada "PI", atribua o valor de Pi a ela.  
+3. [Exercício 03](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-03.js) – Declare uma variável chamada númeroMáximo, atribua a ela o valor máximo.  
+4. [Exercício 04](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-04.js) – Declare duas variáveis chamadas nome e sobrenome, atribua o seu nome e sobrenome a elas.  
+5. [Exercício 05](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-05.js) – Declare duas variáveis e atribua valores numéricos a elas. Use o operador adequado.  
+6. [Exercício 06](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-06.js) – Declare duas variáveis e atribua valores booleanos a elas. Use os operadores lógicos AND, OR e NOT para realizar operações lógicas entre as variáveis. Imprima os resultados.  
+7. [Exercício 07](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-07.js) – Declare três variáveis e atribua valores numéricos a elas. Use operadores de comparação para comparar os valores entre as variáveis. Imprima os resultados.  
+8. [Exercício 08](https://github.github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-08.js) – Declare uma variável e atribua um valor numérico a ela. Use o operador de incremento para aumentar o valor da variável. Imprima o resultado.  
+9. [Exercício 09](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-09.js) – Escreva um programa que recebe um número e verifica se ele é positivo, negativo ou zero.  
+10. [Exercício 10](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-10.js) – Escreva um programa que recebe duas notas de um aluno, calcula a média e imprime se o aluno foi aprovado ou reprovado (considerando que a média para aprovação é 7).  
+11. [Exercício 11](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-11.js) – Verifique se uma pessoa pode votar com base na idade.  
+12. [Exercício 12](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-12.js) – Verifique a situação de um estudante de acordo com sua média final.  
+13. [Exercício 13](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-13.js) – Calcule o IMC e imprima a classificação.  
+14. [Exercício 14](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-14.js) – Verifique se um ano é bissexto.  
+15. [Exercício 15](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-15.js) – Verifique se uma palavra é um palíndromo.  
+16. [Exercício 16](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-16.js) – Determine o maior entre três números.  
+17. [Exercício 17](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-17.js) – Verifique se um número é par ou ímpar.  
+18. [Exercício 18](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-18.js) – Verifique se uma pessoa pode dirigir com base na idade.  
+19. [Exercício 19](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-19.js) – Verifique se um número está dentro de um intervalo.  
+20. [Exercício 20](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-20.js) – Imprima uma classificação baseada na nota de um aluno.  
+21. [Exercício 21](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-21.js) – Determine a estação do ano com base no mês.  
+22. [Exercício 22](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-22.js) – Determine o número de dias em um mês.  
+23. [Exercício 23](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-23.js) – Verifique as cores de um semáforo.  
+24. [Exercício 24](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-24.js) – Usando um laço for, imprima os números de 1 a 10.  
+25. [Exercício 25](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-25.js) – Usando um laço while, imprima os números de 10 a 1.  
+26. [Exercício 26](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-26.js) – Usando um laço do-while, imprima os números ímpares de 1 a 20.  
+
 ---
 
 <details>
   <summary>🔧 <strong>Exercícios Pendentes</strong></summary>
   
-- **Exercício 24:** Usando um laço for, imprima os números de 1 a 10.  
-- **Exercício 25:** Usando um laço while, imprima os números de 10 a 1.  
-- **Exercício 26:** Usando um laço do-while, imprima os números ímpares de 1 a 20.  
 - **Exercício 27:** Imprima a tabuada de multiplicação do número 5.  
 - **Exercício 28:** Calcule e imprima a soma dos números de 1 a 100.  
 - **Exercício 29:** Imprima todos os números pares de 1 a 100.  
@@ -85,7 +86,3 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 - **Exercício 65:** Função que aceite um array de números e uma função de callback e retorne a soma de todos os números do array após a aplicação da função de callback.  
 
 </details>
-
----
-
-
