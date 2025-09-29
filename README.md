@@ -42,6 +42,7 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 26. [Exercício 26](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-26.js) – Usando um laço do-while, imprima os números ímpares de 1 a 20.
 27. [Exercício 27](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-27.js) – Imprima a tabuada de multiplicação do número 5.
 28. [Exercício 28](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-28.js) – Calcule e imprima a soma dos números de 1 a 100.
+29. [Exercício 29](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-29.js) – Imprima todos os números pares de 1 a 100.
 
 ---
 
