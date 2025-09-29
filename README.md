@@ -39,7 +39,8 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 23. [Exercício 23](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-23.js) – Verifique as cores de um semáforo.  
 24. [Exercício 24](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-24.js) – Usando um laço for, imprima os números de 1 a 10.  
 25. [Exercício 25](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-25.js) – Usando um laço while, imprima os números de 10 a 1.  
-26. [Exercício 26](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-26.js) – Usando um laço do-while, imprima os números ímpares de 1 a 20.  
+26. [Exercício 26](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-26.js) – Usando um laço do-while, imprima os números ímpares de 1 a 20.
+27. [Exercício 27](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-27.js) – Imprima a tabuada de multiplicação do número 5.
 
 ---
 
