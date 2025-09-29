@@ -43,6 +43,7 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 27. [Exercício 27](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-27.js) – Imprima a tabuada de multiplicação do número 5.
 28. [Exercício 28](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-28.js) – Calcule e imprima a soma dos números de 1 a 100.
 29. [Exercício 29](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-29.js) – Imprima todos os números pares de 1 a 100.
+30. [Exercício 30](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-30.js) – Imprima os números primos de 1 a 100. 
 
 ---
 
