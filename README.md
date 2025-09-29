@@ -50,10 +50,6 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 <details>
   <summary>🔧 <strong>Exercícios Pendentes</strong></summary>
   
-- **Exercício 27:** Imprima a tabuada de multiplicação do número 5.  
-- **Exercício 28:** Calcule e imprima a soma dos números de 1 a 100.  
-- **Exercício 29:** Imprima todos os números pares de 1 a 100.  
-- **Exercício 30:** Imprima os números primos de 1 a 100.  
 - **Exercício 31:** Jogo de adivinhação com busca binária.  
 - **Exercício 32:** Jogo de pedra, papel e tesoura contra o computador.  
 - **Exercício 33:** Imprima os 10 primeiros números da sequência de Fibonacci.  
