@@ -39,17 +39,17 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 23. [Exercício 23](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-23.js) – Verifique as cores de um semáforo.  
 24. [Exercício 24](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-24.js) – Usando um laço for, imprima os números de 1 a 10.  
 25. [Exercício 25](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-25.js) – Usando um laço while, imprima os números de 10 a 1.  
-26. [Exercício 26](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-26.js) – Usando um laço do-while, imprima os números ímpares de 1 a 20.  
+26. [Exercício 26](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-26.js) – Usando um laço do-while, imprima os números ímpares de 1 a 20.
+27. [Exercício 27](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-27.js) – Imprima a tabuada de multiplicação do número 5.
+28. [Exercício 28](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-28.js) – Calcule e imprima a soma dos números de 1 a 100.
+29. [Exercício 29](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-29.js) – Imprima todos os números pares de 1 a 100.
+30. [Exercício 30](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-30.js) – Imprima os números primos de 1 a 100. 
 
 ---
 
 <details>
   <summary>🔧 <strong>Exercícios Pendentes</strong></summary>
   
-- **Exercício 27:** Imprima a tabuada de multiplicação do número 5.  
-- **Exercício 28:** Calcule e imprima a soma dos números de 1 a 100.  
-- **Exercício 29:** Imprima todos os números pares de 1 a 100.  
-- **Exercício 30:** Imprima os números primos de 1 a 100.  
 - **Exercício 31:** Jogo de adivinhação com busca binária.  
 - **Exercício 32:** Jogo de pedra, papel e tesoura contra o computador.  
 - **Exercício 33:** Imprima os 10 primeiros números da sequência de Fibonacci.  
