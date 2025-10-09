@@ -2,7 +2,6 @@
 
 let idade = parseInt(prompt("Digite sua idade para saber se você pode dirigir:"))
 
-
 if (idade >= 18) {
     alert(`Parabéns! Com ${idade} anos você pode dirigir`)
 } 
