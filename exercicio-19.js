@@ -3,7 +3,7 @@
 let n = parseFloat(prompt("Digite um número para verificar se está dentro do intervalo:")) 
 
 if (n >= 10 && n <= 20) {
-  alert("Número dentro do intervalo");
+  alert("Número dentro do intervalo")
 } else {
-  alert("Número fora do intervalo");
+  alert("Número fora do intervalo")
 }
