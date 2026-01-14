@@ -57,6 +57,7 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Java
 - **Exercício 35:** Imprima os 10 primeiros números triangulares.  
 - **Exercício 36:** Imprima os números perfeitos de 1 a 100.  
 - **Exercício 37:** Imprima a soma dos quadrados dos 10 primeiros números naturais.  
+- **Exercício 38:** Usando um laço do-while, imprima a soma dos cubos dos primeiros 10 números naturais.
 - **Exercício 39:** Calcule o fatorial de um número.  
 - **Exercício 40:** Inverta uma string.  
 - **Exercício 41:** Converta número decimal em binário.  
